@@ -4,6 +4,6 @@ Hey is my first Hello World repo...
 I like Coding and solving Algorithms...
 
 ### Follow Me
-  <a href="https://www.freecodecamp.org/vipuljain08">
-  <a href="https://codepen.io/vipuljain08">
-  <a href="https://twitter.com/vipuljain_08">
+  * <a href="https://www.freecodecamp.org/vipuljain08">FreeCodeCamp</a>
+  * <a href="https://codepen.io/vipuljain08">CodePen</a>
+  * <a href="https://twitter.com/vipuljain_08">Twitter</a>
